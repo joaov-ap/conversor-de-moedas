@@ -35,8 +35,3 @@ javac *.java
 `java Main`
 
 4. Siga as instruções na tela para realizar conversões de moeda.
-
-## Configuração da Chave da API
-
-Antes de executar o programa, certifique-se de configurar a chave da API no arquivo `Main.java`.
-
