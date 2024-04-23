@@ -1,6 +1,6 @@
 # Currency Converter - Projeto Alura
 
-Este é um projeto desenvolvido como parte do curso de Java da [Alura](https://www.alura.com.br/curso-online-java-programacao-orientacao-objetos).
+Este é um projeto desenvolvido como parte do curso de Java da [Alura](https://cursos.alura.com.br/course/praticando-java-construindo-conversor-moedas).
 
 ## Descrição
 
@@ -21,24 +21,22 @@ Este é um simples aplicativo de conversão de moeda que utiliza uma API externa
 
 1. Clone o repositório para o seu ambiente local:
 
-git clone https://github.com/seu-usuario/currency-converter.git
+`git clone https://github.com/seu-usuario/currency-converter.git`
 
 2. Compile o código-fonte:
 
+```
 cd currency-converter
 javac *.java
+```
 
 3. Execute o programa:
 
-java Main
+`java Main`
 
 4. Siga as instruções na tela para realizar conversões de moeda.
 
 ## Configuração da Chave da API
 
 Antes de executar o programa, certifique-se de configurar a chave da API no arquivo `Main.java`.
-
-## Licença
-
-Este projeto é licenciado sob a [Licença MIT](LICENSE).
 
